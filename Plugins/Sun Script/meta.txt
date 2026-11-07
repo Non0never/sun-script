@@ -1,0 +1,4 @@
+Name       = Sun Script
+Version    = 2.0.1
+Essentials = 21.1,21.99,22
+Credits    = NonoNever, POLECTRON
